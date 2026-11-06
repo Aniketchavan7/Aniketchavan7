@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="Aniket's Activity Koi" />
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on **AI & Backend Systems**<br>👯 I’m looking to collaborate on **AI & Open Source Projects**<br>🤝 I’m looking for help with **System Design & Distributed Systems**<br>🌱 I’m currently learning **Java, Spring Boot & Generative AI**<br>💬 Ask me about **RAG, LLMs, AI Agents & Backend Development**<br>⚡ Fun fact: **I love understanding how things work under the hood.**<br>
 
