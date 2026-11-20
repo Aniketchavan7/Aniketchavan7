@@ -49,16 +49,16 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Aniketchavan7?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="92" alt="Quickdraw" title="Quickdraw — Closed Issue or PR within 5 minutes" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="92" alt="YOLO" title="YOLO — Merged PR without review" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Aniketchavan7?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="92" alt="YOLO" title="YOLO — Merged PR without review" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="92" alt="Quickdraw" title="Quickdraw — Closed Issue or PR within 5 minutes" />
   </a>
 </div>
 
 <p align="center">
-  <sub><b>Pull Shark 🦈</b> &nbsp;·&nbsp; <b>Quickdraw ⚡</b> &nbsp;·&nbsp; <b>YOLO 🚀</b></sub><br/>
+  <sub><b>Pull Shark 🦈</b> &nbsp;·&nbsp; <b>YOLO 🚀</b> &nbsp;·&nbsp; <b>Quickdraw ⚡</b></sub><br/>
   <sub><i>Verified official badges recognized natively on <a href="https://github.com/Aniketchavan7?tab=achievements">github.com/Aniketchavan7</a></i></sub>
 </p>
 
@@ -70,6 +70,7 @@ Active upstream contributions to production open-source repositories:
 
 | Repository | Focus & Contribution | Status |
 | :--- | :--- | :--- |
+| **[All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)** | [PR #19912](https://github.com/OpenHands/OpenHands/pull/19912): Redact frontier model API keys in MCP error scrubber (#19874) | Open |
 | **[instructor-ai/instructor](https://github.com/instructor-ai/instructor)** | [PR #3090](https://github.com/567-labs/instructor/pull/3090): Recover data-URI payload in OpenAI and GenAI audio encoders (#3068) | Open |
 | **[instructor-ai/instructor](https://github.com/instructor-ai/instructor)** | [PR #3089](https://github.com/567-labs/instructor/pull/3089): Hydrate Annotated nested models during partial streaming (#3058) | Open |
 | **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** | [PR #41989](https://github.com/langchain-ai/langchain/pull/41989): Preserve None usage_metadata on cache hits (#41915) | `Open` |
