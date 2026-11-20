@@ -72,6 +72,7 @@ Active upstream contributions to production open-source repositories:
 | :--- | :--- | :--- |
 | **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** | [PR #1516](https://github.com/NandhaKishorM/laya/pull/1516): Add TSV dataset loading and custom delimiter support | `Open` |
 | **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** | [PR #1515](https://github.com/NandhaKishorM/laya/pull/1515): Correct uvicorn log-level case sensitivity expectation in test | `Open` |
+| **[youpi-pg/YouPI-PG](https://github.com/youpi-pg/YouPI-PG)** | [PR #145](https://github.com/youpi-pg/YouPI-PG/pull/145): Advance past invalid endpoints to prevent recovery starvation (#120) | `Open` |
 | **[youpi-pg/YouPI-PG](https://github.com/youpi-pg/YouPI-PG)** | [PR #144](https://github.com/youpi-pg/YouPI-PG/pull/144): Harden outbound webhook validation against IPv4-mapped IPv6 and metadata SSRF | `Open` |
 | **[obra/superpowers](https://github.com/obra/superpowers)** | [PR #2719](https://github.com/obra/superpowers/pull/2719): Recognize `todowrite` in V2 tool mapping when `experimental.todo` is enabled | `Open` |
 | **[obra/superpowers](https://github.com/obra/superpowers)** | [PR #2717](https://github.com/obra/superpowers/pull/2717): Fix stable timestamp on injected bootstrap message to preserve prompt caching | `Open` |
