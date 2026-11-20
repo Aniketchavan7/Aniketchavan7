@@ -32,6 +32,7 @@
 
 | Milestone | Category | Details & Verification |
 | :--- | :--- | :--- |
+| **[youpi-pg/YouPI-PG](https://github.com/youpi-pg/YouPI-PG)** | [PR #144](https://github.com/youpi-pg/YouPI-PG/pull/144): Harden outbound webhook validation against IPv4-mapped IPv6 and metadata SSRF | Open |
 | 🎓 **GATE Qualified** | Competitive Academic | Graduate Aptitude Test in Engineering — National examination for engineering excellence |
 | 📜 **Published Research Author** | Peer-Reviewed Research | Authored and published technical research paper in *IJIRE* |
 | 💼 **Ex-GenAI Intern @ Spring Money** | Industry Experience | Engineered autonomous multi-agent content & research automation workflows using LangGraph & ChromaDB |
