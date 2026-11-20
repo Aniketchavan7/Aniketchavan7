@@ -70,6 +70,7 @@ Active upstream contributions to production open-source repositories:
 
 | Repository | Focus & Contribution | Status |
 | :--- | :--- | :--- |
+| **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** | [PR #2027](https://github.com/tashfeenahmed/freellmapi/pull/2027): Add round-robin key selection strategy (#2022) | `Open` |
 | **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** | [PR #2026](https://github.com/tashfeenahmed/freellmapi/pull/2026): Increase model catalog size limit and support CUSTOM_MODEL_CATALOG_MAX_MB (#1975) | `Open` |
 | **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** | [PR #2025](https://github.com/tashfeenahmed/freellmapi/pull/2025): Exempt custom relays from request-wide platform skip (#2023) | `Open` |
 | **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** | [PR #1517](https://github.com/NandhaKishorM/laya/pull/1517): Single-pass evaluation overlap checks and signature reuse | `Open` |
