@@ -70,6 +70,7 @@ Active upstream contributions to production open-source repositories:
 
 | Repository | Focus & Contribution | Status |
 | :--- | :--- | :--- |
+| **[BerriAI/litellm](https://github.com/BerriAI/litellm)** | [PR #53201](https://github.com/BerriAI/litellm/pull/53201): Reject n > 1 for Vertex Gemini image models (#53119) | `Open` |
 | **[BerriAI/litellm](https://github.com/BerriAI/litellm)** | [PR #53198](https://github.com/BerriAI/litellm/pull/53198): Reject explicit null values in callback variables (#53152) | `Open` |
 | **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** | [PR #2027](https://github.com/tashfeenahmed/freellmapi/pull/2027): Add round-robin key selection strategy (#2022) | `Open` |
 | **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** | [PR #2026](https://github.com/tashfeenahmed/freellmapi/pull/2026): Increase model catalog size limit and support CUSTOM_MODEL_CATALOG_MAX_MB (#1975) | `Open` |
