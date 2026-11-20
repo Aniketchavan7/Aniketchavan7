@@ -70,6 +70,8 @@ Active upstream contributions to production open-source repositories:
 
 | Repository | Focus & Contribution | Status |
 | :--- | :--- | :--- |
+| **[instructor-ai/instructor](https://github.com/instructor-ai/instructor)** | [PR #3090](https://github.com/567-labs/instructor/pull/3090): Recover data-URI payload in OpenAI and GenAI audio encoders (#3068) | Open |
+| **[instructor-ai/instructor](https://github.com/instructor-ai/instructor)** | [PR #3089](https://github.com/567-labs/instructor/pull/3089): Hydrate Annotated nested models during partial streaming (#3058) | Open |
 | **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** | [PR #41989](https://github.com/langchain-ai/langchain/pull/41989): Preserve None usage_metadata on cache hits (#41915) | `Open` |
 | **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** | [PR #41988](https://github.com/langchain-ai/langchain/pull/41988): Preserve reserved MCP tool arguments named config or run_manager (#41981) | `Open` |
 | **[pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)** | [PR #14112](https://github.com/pydantic/pydantic-ai/pull/14112): Include mistral-large-latest in _LARGE_4_MODELS for thinking support (#14033) | `Open` |
