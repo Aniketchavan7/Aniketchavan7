@@ -70,6 +70,7 @@ Active upstream contributions to production open-source repositories:
 
 | Repository | Focus & Contribution | Status |
 | :--- | :--- | :--- |
+| **[All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)** | [PR #19913](https://github.com/OpenHands/OpenHands/pull/19913): Align SHTTP server timeout unit between form and FastMCP (#19904) | Open |
 | **[All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)** | [PR #19912](https://github.com/OpenHands/OpenHands/pull/19912): Redact frontier model API keys in MCP error scrubber (#19874) | Open |
 | **[instructor-ai/instructor](https://github.com/instructor-ai/instructor)** | [PR #3090](https://github.com/567-labs/instructor/pull/3090): Recover data-URI payload in OpenAI and GenAI audio encoders (#3068) | Open |
 | **[instructor-ai/instructor](https://github.com/instructor-ai/instructor)** | [PR #3089](https://github.com/567-labs/instructor/pull/3089): Hydrate Annotated nested models during partial streaming (#3058) | Open |
