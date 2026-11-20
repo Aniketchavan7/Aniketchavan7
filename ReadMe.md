@@ -70,6 +70,7 @@ Active upstream contributions to production open-source repositories:
 
 | Repository | Focus & Contribution | Status |
 | :--- | :--- | :--- |
+| **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** | [PR #1517](https://github.com/NandhaKishorM/laya/pull/1517): Single-pass evaluation overlap checks and signature reuse | `Open` |
 | **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** | [PR #1516](https://github.com/NandhaKishorM/laya/pull/1516): Add TSV dataset loading and custom delimiter support | `Open` |
 | **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** | [PR #1515](https://github.com/NandhaKishorM/laya/pull/1515): Correct uvicorn log-level case sensitivity expectation in test | `Open` |
 | **[youpi-pg/YouPI-PG](https://github.com/youpi-pg/YouPI-PG)** | [PR #145](https://github.com/youpi-pg/YouPI-PG/pull/145): Advance past invalid endpoints to prevent recovery starvation (#120) | `Open` |
