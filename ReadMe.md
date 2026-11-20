@@ -103,6 +103,36 @@
 
 ---
 
+### 🏆 GitHub Achievements & Milestones
+
+<div align="center">
+  <a href="https://github.com/Aniketchavan7?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-silver.png" width="84" alt="Pull Shark (Silver x2)" title="Pull Shark (Silver x2) — Merged 16+ Pull Requests" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Aniketchavan7?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="84" alt="Pair Extraordinaire" title="Pair Extraordinaire — Co-authored commits on merged PRs" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Aniketchavan7?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/galaxy-brain-silver.png" width="84" alt="Galaxy Brain (Silver x2)" title="Galaxy Brain (Silver x2) — 8+ Accepted Answers in Discussions" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Aniketchavan7?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="84" alt="Quickdraw" title="Quickdraw — Closed issue/PR within 5 minutes" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Aniketchavan7?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="84" alt="YOLO" title="YOLO — Merged PR without code review" />
+  </a>
+</div>
+
+<p align="center">
+  <sub><b>Pull Shark (Silver x2)</b> · <b>Pair Extraordinaire</b> · <b>Galaxy Brain (Silver x2)</b> · <b>Quickdraw</b> · <b>YOLO</b></sub>
+</p>
+
+---
+
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
