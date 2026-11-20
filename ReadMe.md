@@ -70,6 +70,7 @@ Active upstream contributions to production open-source repositories:
 
 | Repository | Focus & Contribution | Status |
 | :--- | :--- | :--- |
+| **[BerriAI/litellm](https://github.com/BerriAI/litellm)** | [PR #53208](https://github.com/BerriAI/litellm/pull/53208): Allow client_id query param on pass-through routes (#53185) | `Open` |
 | **[BerriAI/litellm](https://github.com/BerriAI/litellm)** | [PR #53201](https://github.com/BerriAI/litellm/pull/53201): Reject n > 1 for Vertex Gemini image models (#53119) | `Open` |
 | **[BerriAI/litellm](https://github.com/BerriAI/litellm)** | [PR #53198](https://github.com/BerriAI/litellm/pull/53198): Reject explicit null values in callback variables (#53152) | `Open` |
 | **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** | [PR #2027](https://github.com/tashfeenahmed/freellmapi/pull/2027): Add round-robin key selection strategy (#2022) | `Open` |
