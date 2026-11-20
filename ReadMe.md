@@ -70,8 +70,10 @@ Active upstream contributions to production open-source repositories:
 
 | Repository | Focus & Contribution | Status |
 | :--- | :--- | :--- |
+| **[obra/superpowers](https://github.com/obra/superpowers)** | [PR #2719](https://github.com/obra/superpowers/pull/2719): Recognize `todowrite` in V2 tool mapping when `experimental.todo` is enabled | `Open` |
 | **[obra/superpowers](https://github.com/obra/superpowers)** | [PR #2717](https://github.com/obra/superpowers/pull/2717): Fix stable timestamp on injected bootstrap message to preserve prompt caching | `Open` |
 | **[obra/superpowers](https://github.com/obra/superpowers)** | [PR #2718](https://github.com/obra/superpowers/pull/2718): Scope fix-loop model escalation exclusively to current task | `Open` |
+| **[blinkospace/blinko](https://github.com/blinkospace/blinko)** | [PR #1292](https://github.com/blinkospace/blinko/pull/1292): Require `UNSTRUCTURED_API_URL` before sending attachments to Unstructured | `Open` |
 | **[blinkospace/blinko](https://github.com/blinkospace/blinko)** | [PR #1290](https://github.com/blinkospace/blinko/pull/1290): Eliminate duplicate note insertion in RAG prompt context | `Open` |
 | **[blinkospace/blinko](https://github.com/blinkospace/blinko)** | [PR #1291](https://github.com/blinkospace/blinko/pull/1291): Ensure Anthropic provider baseURL includes `/v1` and handle custom proxy paths | `Open` |
 | **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** | [PR #2493](https://github.com/Alishahryar1/free-claude-code/pull/2493): Accept `sessionId` and normalize `thinkingLevel` on Gemini requests | `Open` |
