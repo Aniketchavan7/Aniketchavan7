@@ -36,11 +36,11 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Aniketchavan7?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pair-extraordinaire-silver.png" width="88" alt="Pair Extraordinaire (Silver x3)" title="Pair Extraordinaire (Silver x3) — 24+ Co-authored Commits on Merged PRs" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pair-extraordinaire-gold.png" width="88" alt="Pair Extraordinaire (Gold x4)" title="Pair Extraordinaire (Gold x4) — 48+ Co-authored Commits on Merged PRs" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Aniketchavan7?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-silver.png" width="88" alt="Pull Shark (Silver x2)" title="Pull Shark (Silver x2) — Merged 16+ Pull Requests" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-silver.png" width="88" alt="Pull Shark (Silver x2)" title="Pull Shark (Silver x2) — Merged 48+ Pull Requests" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Aniketchavan7?tab=achievements">
@@ -53,7 +53,7 @@
 </div>
 
 <p align="center">
-  <sub><b>Galaxy Brain (Gold x4)</b> · <b>Pair Extraordinaire (Silver x3)</b> · <b>Pull Shark (Silver x2)</b> · <b>Quickdraw</b> · <b>YOLO</b></sub>
+  <sub><b>Galaxy Brain (Gold x4)</b> · <b>Pair Extraordinaire (Gold x4)</b> · <b>Pull Shark (Silver x2)</b> · <b>Quickdraw</b> · <b>YOLO</b></sub>
 </p>
 
 ---
