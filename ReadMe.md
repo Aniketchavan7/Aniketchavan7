@@ -76,6 +76,7 @@ Active upstream contributions to production open-source repositories:
 | **[blinkospace/blinko](https://github.com/blinkospace/blinko)** | [PR #1292](https://github.com/blinkospace/blinko/pull/1292): Require `UNSTRUCTURED_API_URL` before sending attachments to Unstructured | `Open` |
 | **[blinkospace/blinko](https://github.com/blinkospace/blinko)** | [PR #1290](https://github.com/blinkospace/blinko/pull/1290): Eliminate duplicate note insertion in RAG prompt context | `Open` |
 | **[blinkospace/blinko](https://github.com/blinkospace/blinko)** | [PR #1291](https://github.com/blinkospace/blinko/pull/1291): Ensure Anthropic provider baseURL includes `/v1` and handle custom proxy paths | `Open` |
+| **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** | [PR #2497](https://github.com/Alishahryar1/free-claude-code/pull/2497): Safely quote single quotes and backslashes in managed dotenv | `Open` |
 | **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** | [PR #2493](https://github.com/Alishahryar1/free-claude-code/pull/2493): Accept `sessionId` and normalize `thinkingLevel` on Gemini requests | `Open` |
 | **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** | [PR #2495](https://github.com/Alishahryar1/free-claude-code/pull/2495): Add Hermes bin directory to PATH in installer scripts & environment | `Open` |
 
