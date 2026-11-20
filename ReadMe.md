@@ -28,33 +28,54 @@
 
 ---
 
-### 🏆 GitHub Achievements & Milestones
+### 🏆 Real Credentials & Engineering Milestones
+
+| Milestone | Category | Details & Verification |
+| :--- | :--- | :--- |
+| 🎓 **GATE Qualified** | Competitive Academic | Graduate Aptitude Test in Engineering — National examination for engineering excellence |
+| 📜 **Published Research Author** | Peer-Reviewed Research | Authored and published technical research paper in *IJIRE* |
+| 💼 **Ex-GenAI Intern @ Spring Money** | Industry Experience | Engineered autonomous multi-agent content & research automation workflows using LangGraph & ChromaDB |
+| 🎯 **Google Competitions** | Competitive Programming | Qualified in Google Hash Code & Google Code Jam |
+| 🧩 **50+ DSA Solutions** | Problem Solving | Solved 50+ Data Structures & Algorithms challenges on [Codolio / LeetCode](https://codolio.com/profile/Aniket_chavan7) |
+| 🎓 **B.E. in AI & Data Science** | Higher Education | PVG's College of Engineering and Technology, Pune (CGPA: **8.34 / 10**) |
+
+---
+
+### 🦈 Official GitHub Achievements
 
 <div align="center">
   <a href="https://github.com/Aniketchavan7?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/galaxy-brain-gold.png" width="88" alt="Galaxy Brain (Gold x4)" title="Galaxy Brain (Gold x4) — 32+ Accepted Answers in GitHub Discussions" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="92" alt="Pull Shark" title="Pull Shark — Merged Pull Requests" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Aniketchavan7?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pair-extraordinaire-gold.png" width="88" alt="Pair Extraordinaire (Gold x4)" title="Pair Extraordinaire (Gold x4) — 48+ Co-authored Commits on Merged PRs" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="92" alt="Quickdraw" title="Quickdraw — Closed Issue or PR within 5 minutes" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Aniketchavan7?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-silver.png" width="88" alt="Pull Shark (Silver x2)" title="Pull Shark (Silver x2) — Merged 48+ Pull Requests" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Aniketchavan7?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="88" alt="Quickdraw" title="Quickdraw — Closed issue/PR within 5 minutes" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Aniketchavan7?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="88" alt="YOLO" title="YOLO — Merged PR without code review" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="92" alt="YOLO" title="YOLO — Merged PR without review" />
   </a>
 </div>
 
 <p align="center">
-  <sub><b>Galaxy Brain (Gold x4)</b> · <b>Pair Extraordinaire (Gold x4)</b> · <b>Pull Shark (Silver x2)</b> · <b>Quickdraw</b> · <b>YOLO</b></sub>
+  <sub><b>Pull Shark 🦈</b> &nbsp;·&nbsp; <b>Quickdraw ⚡</b> &nbsp;·&nbsp; <b>YOLO 🚀</b></sub><br/>
+  <sub><i>Verified official badges recognized natively on <a href="https://github.com/Aniketchavan7?tab=achievements">github.com/Aniketchavan7</a></i></sub>
 </p>
+
+---
+
+### 🌐 Open-Source Contributions & Community Impact
+
+Active upstream contributions to production open-source repositories:
+
+| Repository | Focus & Contribution | Status |
+| :--- | :--- | :--- |
+| **[obra/superpowers](https://github.com/obra/superpowers)** | [PR #2717](https://github.com/obra/superpowers/pull/2717): Fix stable timestamp on injected bootstrap message to preserve prompt caching | `Open` |
+| **[obra/superpowers](https://github.com/obra/superpowers)** | [PR #2718](https://github.com/obra/superpowers/pull/2718): Scope fix-loop model escalation exclusively to current task | `Open` |
+| **[blinkospace/blinko](https://github.com/blinkospace/blinko)** | [PR #1290](https://github.com/blinkospace/blinko/pull/1290): Eliminate duplicate note insertion in RAG prompt context | `Open` |
+| **[blinkospace/blinko](https://github.com/blinkospace/blinko)** | [PR #1291](https://github.com/blinkospace/blinko/pull/1291): Ensure Anthropic provider baseURL includes `/v1` and handle custom proxy paths | `Open` |
+| **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** | [PR #2493](https://github.com/Alishahryar1/free-claude-code/pull/2493): Accept `sessionId` and normalize `thinkingLevel` on Gemini requests | `Open` |
+| **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** | [PR #2495](https://github.com/Alishahryar1/free-claude-code/pull/2495): Add Hermes bin directory to PATH in installer scripts & environment | `Open` |
 
 ---
 
