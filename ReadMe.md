@@ -70,6 +70,7 @@ Active upstream contributions to production open-source repositories:
 
 | Repository | Focus & Contribution | Status |
 | :--- | :--- | :--- |
+| **[pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)** | [PR #14111](https://github.com/pydantic/pydantic-ai/pull/14111): Map spacexai vendor prefix to grok_model_profile on Vercel (#14034) | `Open` |
 | **[pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)** | [PR #14110](https://github.com/pydantic/pydantic-ai/pull/14110): Handle lone surrogates in ToolCallPart.args_as_dict and args_as_json_str (#13976) | `Open` |
 | **[BerriAI/litellm](https://github.com/BerriAI/litellm)** | [PR #53208](https://github.com/BerriAI/litellm/pull/53208): Allow client_id query param on pass-through routes (#53185) | `Open` |
 | **[BerriAI/litellm](https://github.com/BerriAI/litellm)** | [PR #53201](https://github.com/BerriAI/litellm/pull/53201): Reject n > 1 for Vertex Gemini image models (#53119) | `Open` |
