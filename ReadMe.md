@@ -32,7 +32,6 @@
 
 | Milestone | Category | Details & Verification |
 | :--- | :--- | :--- |
-| **[youpi-pg/YouPI-PG](https://github.com/youpi-pg/YouPI-PG)** | [PR #144](https://github.com/youpi-pg/YouPI-PG/pull/144): Harden outbound webhook validation against IPv4-mapped IPv6 and metadata SSRF | Open |
 | 🎓 **GATE Qualified** | Competitive Academic | Graduate Aptitude Test in Engineering — National examination for engineering excellence |
 | 📜 **Published Research Author** | Peer-Reviewed Research | Authored and published technical research paper in *IJIRE* |
 | 💼 **Ex-GenAI Intern @ Spring Money** | Industry Experience | Engineered autonomous multi-agent content & research automation workflows using LangGraph & ChromaDB |
@@ -71,6 +70,8 @@ Active upstream contributions to production open-source repositories:
 
 | Repository | Focus & Contribution | Status |
 | :--- | :--- | :--- |
+| **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** | [PR #1515](https://github.com/NandhaKishorM/laya/pull/1515): Correct uvicorn log-level case sensitivity expectation in test | `Open` |
+| **[youpi-pg/YouPI-PG](https://github.com/youpi-pg/YouPI-PG)** | [PR #144](https://github.com/youpi-pg/YouPI-PG/pull/144): Harden outbound webhook validation against IPv4-mapped IPv6 and metadata SSRF | `Open` |
 | **[obra/superpowers](https://github.com/obra/superpowers)** | [PR #2719](https://github.com/obra/superpowers/pull/2719): Recognize `todowrite` in V2 tool mapping when `experimental.todo` is enabled | `Open` |
 | **[obra/superpowers](https://github.com/obra/superpowers)** | [PR #2717](https://github.com/obra/superpowers/pull/2717): Fix stable timestamp on injected bootstrap message to preserve prompt caching | `Open` |
 | **[obra/superpowers](https://github.com/obra/superpowers)** | [PR #2718](https://github.com/obra/superpowers/pull/2718): Scope fix-loop model escalation exclusively to current task | `Open` |
