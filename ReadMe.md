@@ -70,6 +70,7 @@ Active upstream contributions to production open-source repositories:
 
 | Repository | Focus & Contribution | Status |
 | :--- | :--- | :--- |
+| **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** | [PR #41988](https://github.com/langchain-ai/langchain/pull/41988): Preserve reserved MCP tool arguments named config or run_manager (#41981) | `Open` |
 | **[pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)** | [PR #14112](https://github.com/pydantic/pydantic-ai/pull/14112): Include mistral-large-latest in _LARGE_4_MODELS for thinking support (#14033) | `Open` |
 | **[pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)** | [PR #14111](https://github.com/pydantic/pydantic-ai/pull/14111): Map spacexai vendor prefix to grok_model_profile on Vercel (#14034) | `Open` |
 | **[pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)** | [PR #14110](https://github.com/pydantic/pydantic-ai/pull/14110): Handle lone surrogates in ToolCallPart.args_as_dict and args_as_json_str (#13976) | `Open` |
