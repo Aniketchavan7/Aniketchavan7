@@ -36,7 +36,7 @@
 | 📜 **Published Research Author** | Peer-Reviewed Research | Authored and published technical research paper in *IJIRE* |
 | 💼 **Ex-GenAI Intern @ Spring Money** | Industry Experience | Engineered autonomous multi-agent content & research automation workflows using LangGraph & ChromaDB |
 | 🎯 **Google Competitions** | Competitive Programming | Qualified in Google Hash Code & Google Code Jam |
-| 🧩 **100+ LeetCode Solutions & Guides** | Problem Solving & Algorithms | Comprehensive interview-ready explanations, intuition breakdowns & optimal Java/Python solutions in [Aniketchavan7/leetcode](https://github.com/Aniketchavan7/leetcode) |
+| 🧩 **1,000 LeetCode Solutions & Guides** | Problem Solving & Algorithms | Comprehensive interview-ready explanations, intuition breakdowns & optimal Java/Python solutions in [Aniketchavan7/leetcode](https://github.com/Aniketchavan7/leetcode) |
 | 🎓 **B.E. in AI & Data Science** | Higher Education | PVG's College of Engineering and Technology, Pune (CGPA: **8.34 / 10**) |
 
 ---
