@@ -71,7 +71,7 @@ Active upstream contributions to production open-source repositories:
 | Repository | Focus & Contribution | Status |
 | :--- | :--- | :--- |
 | **[ogx-ai/ogx](https://github.com/ogx-ai/ogx)** | [PR #7045](https://github.com/ogx-ai/ogx/pull/7045): Replace non-object streaming tool arguments with empty object (#6912) | Open |
-| **[ogx-ai/ogx](https://github.com/ogx-ai/ogx)** | [PR #7044](https://github.com/ogx-ai/ogx/pull/7044): Map content_filter finish_reason to refusal stop_reason (#6810) | Open |
+| **[ogx-ai/ogx](https://github.com/ogx-ai/ogx)** | [PR #7044](https://github.com/ogx-ai/ogx/pull/7044): Map content_filter finish_reason to refusal stop_reason (#6810) | **Merged** |
 | **[ogx-ai/ogx](https://github.com/ogx-ai/ogx)** | [PR #7043](https://github.com/ogx-ai/ogx/pull/7043): Support base_url configuration in GeminiConfig and adapter (#7041) | Open |
 | **[All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)** | [PR #19914](https://github.com/OpenHands/OpenHands/pull/19914): Pad inline code when content starts and ends with space (#19857) | Open |
 | **[All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)** | [PR #19913](https://github.com/OpenHands/OpenHands/pull/19913): Align SHTTP server timeout unit between form and FastMCP (#19904) | Open |
