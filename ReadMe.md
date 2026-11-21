@@ -70,6 +70,7 @@ Active upstream contributions to production open-source repositories:
 
 | Repository | Focus & Contribution | Status |
 | :--- | :--- | :--- |
+| **[ogx-ai/ogx](https://github.com/ogx-ai/ogx)** | [PR #7045](https://github.com/ogx-ai/ogx/pull/7045): Replace non-object streaming tool arguments with empty object (#6912) | Open |
 | **[ogx-ai/ogx](https://github.com/ogx-ai/ogx)** | [PR #7044](https://github.com/ogx-ai/ogx/pull/7044): Map content_filter finish_reason to refusal stop_reason (#6810) | Open |
 | **[ogx-ai/ogx](https://github.com/ogx-ai/ogx)** | [PR #7043](https://github.com/ogx-ai/ogx/pull/7043): Support base_url configuration in GeminiConfig and adapter (#7041) | Open |
 | **[All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)** | [PR #19914](https://github.com/OpenHands/OpenHands/pull/19914): Pad inline code when content starts and ends with space (#19857) | Open |
@@ -92,7 +93,7 @@ Active upstream contributions to production open-source repositories:
 | **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** | [PR #2025](https://github.com/tashfeenahmed/freellmapi/pull/2025): Exempt custom relays from request-wide platform skip (#2023) | `Open` |
 | **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** | [PR #1517](https://github.com/NandhaKishorM/laya/pull/1517): Single-pass evaluation overlap checks and signature reuse | `Open` |
 | **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** | [PR #1516](https://github.com/NandhaKishorM/laya/pull/1516): Add TSV dataset loading and custom delimiter support | `Open` |
-| **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** | [PR #1515](https://github.com/NandhaKishorM/laya/pull/1515): Correct uvicorn log-level case sensitivity expectation in test | `Open` |
+| **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** | [PR #1515](https://github.com/NandhaKishorM/laya/pull/1515): Correct uvicorn log-level case sensitivity expectation in test | **Merged** |
 | **[youpi-pg/YouPI-PG](https://github.com/youpi-pg/YouPI-PG)** | [PR #145](https://github.com/youpi-pg/YouPI-PG/pull/145): Advance past invalid endpoints to prevent recovery starvation (#120) | `Open` |
 | **[youpi-pg/YouPI-PG](https://github.com/youpi-pg/YouPI-PG)** | [PR #144](https://github.com/youpi-pg/YouPI-PG/pull/144): Harden outbound webhook validation against IPv4-mapped IPv6 and metadata SSRF | `Open` |
 | **[obra/superpowers](https://github.com/obra/superpowers)** | [PR #2719](https://github.com/obra/superpowers/pull/2719): Recognize `todowrite` in V2 tool mapping when `experimental.todo` is enabled | `Open` |
