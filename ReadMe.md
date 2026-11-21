@@ -66,45 +66,12 @@
 
 ### 🌐 Open-Source Contributions & Community Impact
 
-Active upstream contributions to production open-source repositories:
+Production upstream contributions reviewed, merged, and shipped into upstream codebases:
 
-| Repository | Focus & Contribution | Status |
+| Repository | Focus & Contribution | Maintainer & Adoption Status |
 | :--- | :--- | :--- |
-| **[ogx-ai/ogx](https://github.com/ogx-ai/ogx)** | [PR #7045](https://github.com/ogx-ai/ogx/pull/7045): Replace non-object streaming tool arguments with empty object (#6912) | Open |
-| **[ogx-ai/ogx](https://github.com/ogx-ai/ogx)** | [PR #7044](https://github.com/ogx-ai/ogx/pull/7044): Map content_filter finish_reason to refusal stop_reason (#6810) | **Merged** |
-| **[ogx-ai/ogx](https://github.com/ogx-ai/ogx)** | [PR #7043](https://github.com/ogx-ai/ogx/pull/7043): Support base_url configuration in GeminiConfig and adapter (#7041) | Open |
-| **[All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)** | [PR #19914](https://github.com/OpenHands/OpenHands/pull/19914): Pad inline code when content starts and ends with space (#19857) | Open |
-| **[All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)** | [PR #19913](https://github.com/OpenHands/OpenHands/pull/19913): Align SHTTP server timeout unit between form and FastMCP (#19904) | Open |
-| **[All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)** | [PR #19912](https://github.com/OpenHands/OpenHands/pull/19912): Redact frontier model API keys in MCP error scrubber (#19874) | Open |
-| **[instructor-ai/instructor](https://github.com/instructor-ai/instructor)** | [PR #3091](https://github.com/567-labs/instructor/pull/3091): Raise ResponseParsingError on unparseable responses for retry support (#3083) | Open |
-| **[instructor-ai/instructor](https://github.com/instructor-ai/instructor)** | [PR #3090](https://github.com/567-labs/instructor/pull/3090): Recover data-URI payload in OpenAI and GenAI audio encoders (#3068) | Open |
-| **[instructor-ai/instructor](https://github.com/instructor-ai/instructor)** | [PR #3089](https://github.com/567-labs/instructor/pull/3089): Hydrate Annotated nested models during partial streaming (#3058) | Open |
-| **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** | [PR #42007](https://github.com/langchain-ai/langchain/pull/42007): Strict mode recursion for oneOf, prefixItems, and empty parameters (#41866) | `Open` |
-| **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** | [PR #41989](https://github.com/langchain-ai/langchain/pull/41989): Preserve None usage_metadata on cache hits (#41915) | `Open` |
-| **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** | [PR #41988](https://github.com/langchain-ai/langchain/pull/41988): Preserve reserved MCP tool arguments named config or run_manager (#41981) | `Open` |
-| **[pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)** | [PR #14112](https://github.com/pydantic/pydantic-ai/pull/14112): Include mistral-large-latest in _LARGE_4_MODELS for thinking support (#14033) | `Open` |
-| **[pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)** | [PR #14111](https://github.com/pydantic/pydantic-ai/pull/14111): Map spacexai vendor prefix to grok_model_profile on Vercel (#14034) | `Open` |
-| **[pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)** | [PR #14110](https://github.com/pydantic/pydantic-ai/pull/14110): Handle lone surrogates in ToolCallPart.args_as_dict and args_as_json_str (#13976) | `Open` |
-| **[BerriAI/litellm](https://github.com/BerriAI/litellm)** | [PR #53208](https://github.com/BerriAI/litellm/pull/53208): Allow client_id query param on pass-through routes (#53185) | `Open` |
-| **[BerriAI/litellm](https://github.com/BerriAI/litellm)** | [PR #53201](https://github.com/BerriAI/litellm/pull/53201): Reject n > 1 for Vertex Gemini image models (#53119) | `Open` |
-| **[BerriAI/litellm](https://github.com/BerriAI/litellm)** | [PR #53198](https://github.com/BerriAI/litellm/pull/53198): Reject explicit null values in callback variables (#53152) | `Open` |
-| **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** | [PR #2027](https://github.com/tashfeenahmed/freellmapi/pull/2027): Add round-robin key selection strategy (#2022) | `Open` |
-| **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** | [PR #2026](https://github.com/tashfeenahmed/freellmapi/pull/2026): Increase model catalog size limit and support CUSTOM_MODEL_CATALOG_MAX_MB (#1975) | `Open` |
-| **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** | [PR #2025](https://github.com/tashfeenahmed/freellmapi/pull/2025): Exempt custom relays from request-wide platform skip (#2023) | `Open` |
-| **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** | [PR #1517](https://github.com/NandhaKishorM/laya/pull/1517): Single-pass evaluation overlap checks and signature reuse | `Open` |
-| **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** | [PR #1516](https://github.com/NandhaKishorM/laya/pull/1516): Add TSV dataset loading and custom delimiter support | `Open` |
-| **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** | [PR #1515](https://github.com/NandhaKishorM/laya/pull/1515): Correct uvicorn log-level case sensitivity expectation in test | **Merged** |
-| **[youpi-pg/YouPI-PG](https://github.com/youpi-pg/YouPI-PG)** | [PR #145](https://github.com/youpi-pg/YouPI-PG/pull/145): Advance past invalid endpoints to prevent recovery starvation (#120) | `Open` |
-| **[youpi-pg/YouPI-PG](https://github.com/youpi-pg/YouPI-PG)** | [PR #144](https://github.com/youpi-pg/YouPI-PG/pull/144): Harden outbound webhook validation against IPv4-mapped IPv6 and metadata SSRF | `Open` |
-| **[obra/superpowers](https://github.com/obra/superpowers)** | [PR #2719](https://github.com/obra/superpowers/pull/2719): Recognize `todowrite` in V2 tool mapping when `experimental.todo` is enabled | `Open` |
-| **[obra/superpowers](https://github.com/obra/superpowers)** | [PR #2717](https://github.com/obra/superpowers/pull/2717): Fix stable timestamp on injected bootstrap message to preserve prompt caching | `Open` |
-| **[obra/superpowers](https://github.com/obra/superpowers)** | [PR #2718](https://github.com/obra/superpowers/pull/2718): Scope fix-loop model escalation exclusively to current task | `Open` |
-| **[blinkospace/blinko](https://github.com/blinkospace/blinko)** | [PR #1292](https://github.com/blinkospace/blinko/pull/1292): Require `UNSTRUCTURED_API_URL` before sending attachments to Unstructured | `Open` |
-| **[blinkospace/blinko](https://github.com/blinkospace/blinko)** | [PR #1290](https://github.com/blinkospace/blinko/pull/1290): Eliminate duplicate note insertion in RAG prompt context | `Open` |
-| **[blinkospace/blinko](https://github.com/blinkospace/blinko)** | [PR #1291](https://github.com/blinkospace/blinko/pull/1291): Ensure Anthropic provider baseURL includes `/v1` and handle custom proxy paths | `Open` |
-| **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** | [PR #2497](https://github.com/Alishahryar1/free-claude-code/pull/2497): Safely quote single quotes and backslashes in managed dotenv | `Open` |
-| **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** | [PR #2493](https://github.com/Alishahryar1/free-claude-code/pull/2493): Accept `sessionId` and normalize `thinkingLevel` on Gemini requests | `Open` |
-| **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** | [PR #2495](https://github.com/Alishahryar1/free-claude-code/pull/2495): Add Hermes bin directory to PATH in installer scripts & environment | `Open` |
+| **[ogx-ai/ogx](https://github.com/ogx-ai/ogx)** | [PR #7044](https://github.com/ogx-ai/ogx/pull/7044): Map `content_filter` finish reason to `refusal` stop reason in Anthropic translation layer ([#6810](https://github.com/ogx-ai/ogx/issues/6810)) | **Merged** by Matthew Farrellee (`@mattf`) · Shipped in `main` (`c77deafc`) |
+| **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** | [PR #1515](https://github.com/NandhaKishorM/laya/pull/1515): Correct uvicorn log-level case sensitivity expectation in serve test suite | **Merged** by Nandha Kishor M (`@NandhaKishorM`) · Shipped in Release `v0.5.1` |
 
 ---
 
