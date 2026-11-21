@@ -11,25 +11,10 @@
     <a href="mailto:caniket975@gmail.com"><img src="https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
   </p>
 
-  <table border="0" align="center">
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://egorthinks.github.io/git-bonsai/?u=Aniketchavan7">
-          <img src="output/bonsai.gif" width="220" alt="Aniket's GitHub Bonsai swaying in the wind, petals falling — click to open interactive playground" />
-        </a>
-        <br/>
-        <sub><i>🌸 Living Cherry Bonsai grown deterministically from commit history</i></sub>
-      </td>
-      <td width="30"></td>
-      <td align="center" valign="middle">
-        <a href="https://github.com/yalongwastaken/git-koi">
-          <img src="koi/koi.gif" width="220" alt="Aniket's Activity Koi" />
-        </a>
-        <br/>
-        <sub><i>🐟 Living Koi pond redrawn every night from daily activity</i></sub>
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="koi/koi.gif" width="230" alt="Aniket's Activity Koi" /><br/>
+    <sub><i>🐟 Living Koi pond updated daily based on my GitHub commit activity</i></sub>
+  </p>
 </div>
 
 ---
