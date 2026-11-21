@@ -39,7 +39,7 @@
 - 🎓 **Education**: B.E. in Artificial Intelligence & Data Science (CGPA: 8.34/10) from PVG's COET, Pune.
 - 💼 **Industry Background**: Ex-Gen AI Intern at **[Spring Money](https://spring.money)** — engineered autonomous multi-agent content & research automation workflows using LangGraph, LangChain, and ChromaDB.
 - 🚀 **Core Focus**: Designing production-grade multi-agent architectures, hybrid RAG pipelines (BM25s + Dense Embeddings + Rerankers), real-time WebSockets, and resilient backend systems.
-- 🏆 **Milestones**: GATE Qualified · 50+ DSA Problems Solved on LeetCode · Google Hash Code & Code Jam Qualified · Published Research Author in *IJIRE*.
+- 🏆 **Milestones**: GATE Qualified · 100+ LeetCode Questions Solved & Explained · Google Hash Code & Code Jam Qualified · Published Research Author in *IJIRE*.
 
 ---
 
@@ -51,7 +51,7 @@
 | 📜 **Published Research Author** | Peer-Reviewed Research | Authored and published technical research paper in *IJIRE* |
 | 💼 **Ex-GenAI Intern @ Spring Money** | Industry Experience | Engineered autonomous multi-agent content & research automation workflows using LangGraph & ChromaDB |
 | 🎯 **Google Competitions** | Competitive Programming | Qualified in Google Hash Code & Google Code Jam |
-| 🧩 **50+ DSA Solutions** | Problem Solving | Solved 50+ Data Structures & Algorithms challenges on [Codolio / LeetCode](https://codolio.com/profile/Aniket_chavan7) |
+| 🧩 **100+ LeetCode Solutions & Guides** | Problem Solving & Algorithms | Comprehensive interview-ready explanations, intuition breakdowns & optimal Java/Python solutions in [Aniketchavan7/leetcode](https://github.com/Aniketchavan7/leetcode) |
 | 🎓 **B.E. in AI & Data Science** | Higher Education | PVG's College of Engineering and Technology, Pune (CGPA: **8.34 / 10**) |
 
 ---
@@ -188,6 +188,7 @@ Active upstream contributions to production open-source repositories:
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
+| **[100 LeetCode Explanations](https://github.com/Aniketchavan7/leetcode)** | `Java` `Python 3` `Algorithms` `Data Structures` `DSA` | 100 essential LeetCode interview questions curated across 16 core patterns, tailored with 30-sec conversational pitches, visual traces, edge cases, and optimal implementations. |
 | **[Railway-App](https://github.com/Aniketchavan7/Railway-App)** | `FastAPI` `Next.js 15` `LangGraph` `Neon Postgres` `Upstash Redis` `MapLibre` `WebSockets` | AI-powered real-time Indian Railway tracking SaaS with live telemetry, sub-second WebSocket updates, geospatial map rendering, and a grounded LangGraph travel assistant. |
 | **[No-Spoti](https://github.com/Aniketchavan7/No-Spoti)** | `React Native` `Expo SDK` `Kotlin` `TypeScript` `SQLite` `Audius` | Zero-ads, subscription-free music streaming platform and native Android APK featuring decentralized audio streaming, offline playback, and local caching. |
 | **[Neurosymbolic Policy QA](https://github.com/Aniketchavan7/neurosymbolic-policy-qa)** | `Python` `LangGraph` `Z3 Theorem Prover` `BM25s` `SentenceTransformers` | Neurosymbolic QA over regulatory policy text: compiles retrieved clauses into typed formal rules verified by Z3 SMT solver with hybrid RAG (BM25 + dense embeddings + reranking). |
