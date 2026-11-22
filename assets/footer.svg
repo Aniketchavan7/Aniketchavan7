@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="140" viewBox="0 0 860 140" role="img" aria-label="exit — thanks for stopping by">
+  <defs>
+    <linearGradient id="w1" x1="0" x2="1"><stop offset="0" stop-color="#7aa2f7"/><stop offset="1" stop-color="#bb9af7"/></linearGradient>
+    <linearGradient id="w2" x1="0" x2="1"><stop offset="0" stop-color="#bb9af7"/><stop offset="1" stop-color="#7dcfff"/></linearGradient>
+  </defs>
+  <g opacity="0.35">
+    <path fill="url(#w1)" d="M0 70 Q107.5 40 215 70 T430 70 T645 70 T860 70 T1075 70 T1290 70 T1505 70 T1720 70 V140 H0 Z">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-860 0" dur="12s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g opacity="0.55">
+    <path fill="url(#w2)" d="M0 95 Q107.5 120 215 95 T430 95 T645 95 T860 95 T1075 95 T1290 95 T1505 95 T1720 95 V140 H0 Z">
+      <animateTransform attributeName="transform" type="translate" values="-860 0;0 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <text x="430" y="40" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="16">
+    <tspan fill="#9ece6a">➜</tspan> <tspan fill="#7aa2f7">~</tspan> <tspan fill="#bb9af7">exit</tspan><tspan fill="#8b93b8">  ·  thanks for stopping by  ·  let's build something</tspan>
+  </text>
+</svg>

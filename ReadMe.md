@@ -18,31 +18,16 @@
 
 <br/>
 
-```python
-class Aniket:
-    role       = "AI Engineer @ Aptino"            # since Oct 2026
-    previously = "GenAI Intern @ Spring Money"     # multi-agent research & content pipelines
-    education  = "B.E. AI & Data Science · PVG's COET, Pune · CGPA 8.34"
-
-    focus = ["multi-agent architectures", "hybrid RAG", "real-time distributed backends"]
-
-    milestones = [
-        "GATE qualified",
-        "Google Hash Code & Code Jam qualified",
-        "Published research author · IJIRE",
-        "1,000 LeetCode solutions & interview guides",
-    ]
-
-    def now(self):
-        return "turning LLM prototypes into production systems that don't fall over"
-```
+<div align="center">
+  <img src="assets/neofetch.svg" width="100%" alt="neofetch: Aniket Chavan — AI Engineer @ Aptino · LangGraph, RAG, FastAPI, Next.js" />
+</div>
 
 <div align="center">
   <img src="koi/koi.gif" width="230" alt="Aniket's activity koi pond" /><br/>
   <sub><code>// a living koi pond that grows with my daily commits</code></sub>
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## `$ ls ~/stack`
 
@@ -65,7 +50,7 @@ class Aniket:
 
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## `$ git log --projects`
 
@@ -79,7 +64,7 @@ class Aniket:
 | ❄️ | **[Winter-Arc](https://github.com/Aniketchavan7/Winter-arc)** | Habit and routine engine with synced LeetCode heatmaps and streaks | `Next.js` `Supabase` `Tailwind` |
 | 🧩 | **[leetcode](https://github.com/Aniketchavan7/leetcode)** | 1,000 solutions across 16 core patterns, with intuition, traces, and edge cases | `Java` `Python` |
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## `$ git log --author=aniket --merged upstream`
 
@@ -88,7 +73,7 @@ class Aniket:
 | **[ogx-ai/ogx](https://github.com/ogx-ai/ogx)** | [#7044](https://github.com/ogx-ai/ogx/pull/7044) · map `content_filter` finish reason to `refusal` stop reason in the Anthropic translation layer |
 | **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** | [#1515](https://github.com/NandhaKishorM/laya/pull/1515) · fix uvicorn log-level case sensitivity in the serve test suite · shipped in `v0.5.1` |
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## `$ cat ~/.achievements`
 
@@ -100,20 +85,23 @@ class Aniket:
   <a href="https://github.com/Aniketchavan7?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="80" alt="Quickdraw" title="Quickdraw" /></a>
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## `$ top`
 
 <div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Aniketchavan7&show_icons=true&hide_border=true&bg_color=1a1b26&title_color=bb9af7&text_color=c0caf5&icon_color=7aa2f7&ring_color=7dcfff&show=reviews,prs_merged_percentage" height="170" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=Aniketchavan7&hide_border=true&background=1a1b26&ring=bb9af7&fire=ff9e64&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=7aa2f7&sideLabels=7aa2f7&dates=565f89" height="170" alt="GitHub streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketchavan7&layout=compact&hide_border=true&bg_color=1a1b26&title_color=bb9af7&text_color=c0caf5" height="150" alt="Top languages" />
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-  <sub><code>➜ ~ exit</code> &nbsp;·&nbsp; thanks for stopping by</sub><br/><br/>
+  <img src="assets/footer.svg" width="100%" alt="exit — thanks for stopping by" />
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=Aniketchavan7&style=flat-square&color=7aa2f7&labelColor=1a1b26&label=visitors" alt="Profile views" />
 </div>
