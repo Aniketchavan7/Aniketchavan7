@@ -140,7 +140,7 @@ Production upstream contributions reviewed, merged, and shipped into upstream co
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| **[100 LeetCode Explanations](https://github.com/Aniketchavan7/leetcode)** | `Java` `Python 3` `Algorithms` `Data Structures` `DSA` | 100 essential LeetCode interview questions curated across 16 core patterns, tailored with 30-sec conversational pitches, visual traces, edge cases, and optimal implementations. |
+| **[1,000 LeetCode Solutions & Architecture Guides](https://github.com/Aniketchavan7/leetcode)** | `Java` `Python 3` `Algorithms` `Data Structures` `DSA` | 1,000 essential LeetCode interview questions curated across 16 core patterns, tailored with 30-sec conversational pitches, visual traces, edge cases, and optimal implementations. |
 | **[Railway-App](https://github.com/Aniketchavan7/Railway-App)** | `FastAPI` `Next.js 15` `LangGraph` `Neon Postgres` `Upstash Redis` `MapLibre` `WebSockets` | AI-powered real-time Indian Railway tracking SaaS with live telemetry, sub-second WebSocket updates, geospatial map rendering, and a grounded LangGraph travel assistant. |
 | **[No-Spoti](https://github.com/Aniketchavan7/No-Spoti)** | `React Native` `Expo SDK` `Kotlin` `TypeScript` `SQLite` `Audius` | Zero-ads, subscription-free music streaming platform and native Android APK featuring decentralized audio streaming, offline playback, and local caching. |
 | **[Neurosymbolic Policy QA](https://github.com/Aniketchavan7/neurosymbolic-policy-qa)** | `Python` `LangGraph` `Z3 Theorem Prover` `BM25s` `SentenceTransformers` | Neurosymbolic QA over regulatory policy text: compiles retrieved clauses into typed formal rules verified by Z3 SMT solver with hybrid RAG (BM25 + dense embeddings + reranking). |
@@ -157,7 +157,7 @@ Production upstream contributions reviewed, merged, and shipped into upstream co
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Aniketchavan7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" height="175" alt="Aniket's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Aniketchavan7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&show=reviews,prs_merged_percentage" height="175" alt="Aniket's GitHub Stats" />
       </td>
       <td>
         <img src="https://streak-stats.demolab.com/?user=Aniketchavan7&theme=tokyonight&hide_border=true&background=0B0F19" height="175" alt="Aniket's GitHub Streak" />
