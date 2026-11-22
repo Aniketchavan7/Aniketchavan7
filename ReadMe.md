@@ -18,9 +18,24 @@
 
 <br/>
 
-<div align="center">
-  <img src="assets/neofetch.svg" width="100%" alt="neofetch: Aniket Chavan — AI Engineer @ Aptino · LangGraph, RAG, FastAPI, Next.js" />
-</div>
+```python
+class Aniket:
+    role       = "AI Engineer @ Aptino"            # since Oct 2026
+    previously = "GenAI Intern @ Spring Money"     # multi-agent research & content pipelines
+    education  = "B.E. AI & Data Science · PVG's COET, Pune · CGPA 8.34"
+
+    focus = ["multi-agent architectures", "hybrid RAG", "real-time distributed backends"]
+
+    milestones = [
+        "GATE qualified",
+        "Google Hash Code & Code Jam qualified",
+        "Published research author · IJIRE",
+        "1,000 LeetCode solutions & interview guides",
+    ]
+
+    def now(self):
+        return "turning LLM prototypes into production systems that don't fall over"
+```
 
 <div align="center">
   <img src="koi/koi.gif" width="230" alt="Aniket's activity koi pond" /><br/>
