@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Aniket Chavan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="28" height="28" /></h1>
-  <p><strong>Software Engineer · Generative AI & Distributed Systems</strong></p>
+  <p><strong>AI Engineer @ Aptino · Generative AI & Distributed Systems</strong></p>
   <p>Building high-throughput backend architectures, multi-agent AI workflows (LangGraph / RAG), and real-time telemetry systems.</p>
 
   <p align="center">
@@ -22,7 +22,8 @@
 ### 💫 About Me
 
 - 🎓 **Education**: B.E. in Artificial Intelligence & Data Science (CGPA: 8.34/10) from PVG's COET, Pune.
-- 💼 **Industry Background**: Ex-Gen AI Intern at **[Spring Money](https://spring.money)** — engineered autonomous multi-agent content & research automation workflows using LangGraph, LangChain, and ChromaDB.
+- 💼 **Currently**: AI Engineer at **Aptino** (since October 2026).
+- 🧑‍💻 **Industry Background**: Ex-Gen AI Intern at **[Spring Money](https://spring.money)** — engineered autonomous multi-agent content & research automation workflows using LangGraph, LangChain, and ChromaDB.
 - 🚀 **Core Focus**: Designing production-grade multi-agent architectures, hybrid RAG pipelines (BM25s + Dense Embeddings + Rerankers), real-time WebSockets, and resilient backend systems.
 - 🏆 **Milestones**: GATE Qualified · 100+ LeetCode Questions Solved & Explained · Google Hash Code & Code Jam Qualified · Published Research Author in *IJIRE*.
 
@@ -34,6 +35,7 @@
 | :--- | :--- | :--- |
 | 🎓 **GATE Qualified** | Competitive Academic | Graduate Aptitude Test in Engineering — National examination for engineering excellence |
 | 📜 **Published Research Author** | Peer-Reviewed Research | Authored and published technical research paper in *IJIRE* |
+| 🚀 **AI Engineer @ Aptino** | Industry Experience | Full-time AI Engineer since 1 October 2026 |
 | 💼 **Ex-GenAI Intern @ Spring Money** | Industry Experience | Engineered autonomous multi-agent content & research automation workflows using LangGraph & ChromaDB |
 | 🎯 **Google Competitions** | Competitive Programming | Qualified in Google Hash Code & Google Code Jam |
 | 🧩 **1,000 LeetCode Solutions & Guides** | Problem Solving & Algorithms | Comprehensive interview-ready explanations, intuition breakdowns & optimal Java/Python solutions in [Aniketchavan7/leetcode](https://github.com/Aniketchavan7/leetcode) |
