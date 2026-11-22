@@ -1,181 +1,119 @@
 <div align="center">
-  <h1>Hi, I'm Aniket Chavan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="28" height="28" /></h1>
-  <p><strong>AI Engineer @ Aptino · Generative AI & Distributed Systems</strong></p>
-  <p>Building high-throughput backend architectures, multi-agent AI workflows (LangGraph / RAG), and real-time telemetry systems.</p>
 
-  <p align="center">
-    <a href="https://aniketchavan7.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-0B0F19?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/aniket-chavan"><img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-    <a href="https://codolio.com/profile/Aniket_chavan7"><img src="https://img.shields.io/badge/Codolio-0B0F19?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="Codolio" /></a>
-    <a href="https://youtube.com/@techcodeai-e3o"><img src="https://img.shields.io/badge/YouTube-0B0F19?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
-    <a href="mailto:caniket975@gmail.com"><img src="https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  </p>
+<img src="assets/header.svg" width="100%" alt="Terminal: whoami — Aniket Chavan, AI Engineer @ Aptino" />
 
-  <p align="center">
-    <img src="koi/koi.gif" width="230" alt="Aniket's Activity Koi" /><br/>
-    <sub><i>🐟 Living Koi pond updated daily based on my GitHub commit activity</i></sub>
-  </p>
+<a href="https://github.com/Aniketchavan7">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=Building+multi-agent+systems+with+LangGraph;Shipping+hybrid+RAG%3A+BM25+%2B+dense+%2B+rerankers;Real-time+backends%2C+WebSockets+%26+telemetry;1%2C000+LeetCode+solutions+and+counting" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://aniketchavan7.github.io/portfolio"><img src="https://img.shields.io/badge/portfolio-1a1b26?style=for-the-badge&logo=googlechrome&logoColor=7dcfff" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/aniket-chavan"><img src="https://img.shields.io/badge/linkedin-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" /></a>
+<a href="https://codolio.com/profile/Aniket_chavan7"><img src="https://img.shields.io/badge/codolio-1a1b26?style=for-the-badge&logo=leetcode&logoColor=ff9e64" alt="Codolio" /></a>
+<a href="https://youtube.com/@techcodeai-e3o"><img src="https://img.shields.io/badge/youtube-1a1b26?style=for-the-badge&logo=youtube&logoColor=f7768e" alt="YouTube" /></a>
+<a href="mailto:caniket975@gmail.com"><img src="https://img.shields.io/badge/email-1a1b26?style=for-the-badge&logo=gmail&logoColor=bb9af7" alt="Email" /></a>
+
 </div>
 
----
+<br/>
 
-### 💫 About Me
+```python
+class Aniket:
+    role       = "AI Engineer @ Aptino"            # since Oct 2026
+    previously = "GenAI Intern @ Spring Money"     # multi-agent research & content pipelines
+    education  = "B.E. AI & Data Science · PVG's COET, Pune · CGPA 8.34"
 
-- 🎓 **Education**: B.E. in Artificial Intelligence & Data Science (CGPA: 8.34/10) from PVG's COET, Pune.
-- 💼 **Currently**: AI Engineer at **Aptino** (since October 2026).
-- 🧑‍💻 **Industry Background**: Ex-Gen AI Intern at **[Spring Money](https://spring.money)** — engineered autonomous multi-agent content & research automation workflows using LangGraph, LangChain, and ChromaDB.
-- 🚀 **Core Focus**: Designing production-grade multi-agent architectures, hybrid RAG pipelines (BM25s + Dense Embeddings + Rerankers), real-time WebSockets, and resilient backend systems.
-- 🏆 **Milestones**: GATE Qualified · 100+ LeetCode Questions Solved & Explained · Google Hash Code & Code Jam Qualified · Published Research Author in *IJIRE*.
+    focus = ["multi-agent architectures", "hybrid RAG", "real-time distributed backends"]
 
----
+    milestones = [
+        "GATE qualified",
+        "Google Hash Code & Code Jam qualified",
+        "Published research author · IJIRE",
+        "1,000 LeetCode solutions & interview guides",
+    ]
 
-### 🏆 Real Credentials & Engineering Milestones
-
-| Milestone | Category | Details & Verification |
-| :--- | :--- | :--- |
-| 🎓 **GATE Qualified** | Competitive Academic | Graduate Aptitude Test in Engineering — National examination for engineering excellence |
-| 📜 **Published Research Author** | Peer-Reviewed Research | Authored and published technical research paper in *IJIRE* |
-| 🚀 **AI Engineer @ Aptino** | Industry Experience | Full-time AI Engineer since 1 October 2026 |
-| 💼 **Ex-GenAI Intern @ Spring Money** | Industry Experience | Engineered autonomous multi-agent content & research automation workflows using LangGraph & ChromaDB |
-| 🎯 **Google Competitions** | Competitive Programming | Qualified in Google Hash Code & Google Code Jam |
-| 🧩 **1,000 LeetCode Solutions & Guides** | Problem Solving & Algorithms | Comprehensive interview-ready explanations, intuition breakdowns & optimal Java/Python solutions in [Aniketchavan7/leetcode](https://github.com/Aniketchavan7/leetcode) |
-| 🎓 **B.E. in AI & Data Science** | Higher Education | PVG's College of Engineering and Technology, Pune (CGPA: **8.34 / 10**) |
-
----
-
-### 🦈 Official GitHub Achievements
+    def now(self):
+        return "turning LLM prototypes into production systems that don't fall over"
+```
 
 <div align="center">
-  <a href="https://github.com/Aniketchavan7?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="92" alt="Pull Shark" title="Pull Shark — Merged Pull Requests" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Aniketchavan7?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="92" alt="YOLO" title="YOLO — Merged PR without review" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Aniketchavan7?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="92" alt="Quickdraw" title="Quickdraw — Closed Issue or PR within 5 minutes" />
-  </a>
+  <img src="koi/koi.gif" width="230" alt="Aniket's activity koi pond" /><br/>
+  <sub><code>// a living koi pond that grows with my daily commits</code></sub>
 </div>
 
-<p align="center">
-  <sub><b>Pull Shark 🦈</b> &nbsp;·&nbsp; <b>YOLO 🚀</b> &nbsp;·&nbsp; <b>Quickdraw ⚡</b></sub><br/>
-  <sub><i>Verified official badges recognized natively on <a href="https://github.com/Aniketchavan7?tab=achievements">github.com/Aniketchavan7</a></i></sub>
-</p>
+<br/>
 
----
-
-### 🌐 Open-Source Contributions & Community Impact
-
-Production upstream contributions reviewed, merged, and shipped into upstream codebases:
-
-| Repository | Focus & Contribution | Maintainer & Adoption Status |
-| :--- | :--- | :--- |
-| **[ogx-ai/ogx](https://github.com/ogx-ai/ogx)** | [PR #7044](https://github.com/ogx-ai/ogx/pull/7044): Map `content_filter` finish reason to `refusal` stop reason in Anthropic translation layer ([#6810](https://github.com/ogx-ai/ogx/issues/6810)) | **Merged** by Matthew Farrellee (`@mattf`) · Shipped in `main` (`c77deafc`) |
-| **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** | [PR #1515](https://github.com/NandhaKishorM/laya/pull/1515): Correct uvicorn log-level case sensitivity expectation in serve test suite | **Merged** by Nandha Kishor M (`@NandhaKishorM`) · Shipped in Release `v0.5.1` |
-
----
-
-### 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js,postgres,fastapi,spring,nextjs,react,tailwind,docker,redis,supabase,git,linux&theme=dark" alt="Skills Banner" />
-</p>
-
-#### 🧠 AI, Multi-Agent Systems & RAG
-![LangGraph](https://img.shields.io/badge/LangGraph-0B0F19?style=for-the-badge&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-0B0F19?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0B0F19?style=for-the-badge&logo=chroma&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-0B0F19?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-0B0F19?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![OpenAI](https://img.shields.io/badge/OpenAI-0B0F19?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-0B0F19?style=for-the-badge&logo=google&logoColor=4285F4)
-![Z3 Solver](https://img.shields.io/badge/Z3_SMT_Solver-0B0F19?style=for-the-badge&logo=probot&logoColor=38BDF8)
-
-#### ⚡ Backend & Distributed Systems
-![FastAPI](https://img.shields.io/badge/FastAPI-0B0F19?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B0F19?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![Flask](https://img.shields.io/badge/Flask-0B0F19?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0B0F19?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![WebSockets](https://img.shields.io/badge/WebSockets-0B0F19?style=for-the-badge&logo=socketdotio&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0B0F19?style=for-the-badge&logo=fastapi&logoColor=38BDF8)
-
-#### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-0B0F19?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-0B0F19?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B0F19?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B0F19?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-0B0F19?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![C](https://img.shields.io/badge/C-0B0F19?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0F19?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Bash](https://img.shields.io/badge/Bash-0B0F19?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
-
-#### 🎨 Frontend & Mobile Engineering
-![Next.js 15](https://img.shields.io/badge/Next.js_15-0B0F19?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React_19-0B0F19?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-0B0F19?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-0B0F19?style=for-the-badge&logo=expo&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B0F19?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![MapLibre GL](https://img.shields.io/badge/MapLibre_GL-0B0F19?style=for-the-badge&logo=maplibre&logoColor=white)
-
-#### 🗄️ Databases, Caching & Cloud
-![Neon Postgres](https://img.shields.io/badge/Neon_Postgres-0B0F19?style=for-the-badge&logo=postgresql&logoColor=00E599)
-![Supabase](https://img.shields.io/badge/Supabase-0B0F19?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Upstash Redis](https://img.shields.io/badge/Upstash_Redis-0B0F19?style=for-the-badge&logo=redis&logoColor=FF4F8B)
-![SQLite](https://img.shields.io/badge/SQLite-0B0F19?style=for-the-badge&logo=sqlite&logoColor=003B57)
-![Docker](https://img.shields.io/badge/Docker-0B0F19?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Render](https://img.shields.io/badge/Render-0B0F19?style=for-the-badge&logo=render&logoColor=46E3B7)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0B0F19?style=for-the-badge&logo=cloudflare&logoColor=F38020)
-![Vercel](https://img.shields.io/badge/Vercel-0B0F19?style=for-the-badge&logo=vercel&logoColor=white)
-
-#### 🛠️ DevOps, Testing & Tooling
-![Git](https://img.shields.io/badge/Git-0B0F19?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B0F19?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Postman](https://img.shields.io/badge/Postman-0B0F19?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Playwright](https://img.shields.io/badge/Playwright-0B0F19?style=for-the-badge&logo=playwright&logoColor=2EAD33)
-![Linux](https://img.shields.io/badge/Linux-0B0F19?style=for-the-badge&logo=linux&logoColor=FCC624)
-
----
-
-### 🚀 Featured Production Projects
-
-| Project | Tech Stack | Highlights |
-| :--- | :--- | :--- |
-| **[1,000 LeetCode Solutions & Architecture Guides](https://github.com/Aniketchavan7/leetcode)** | `Java` `Python 3` `Algorithms` `Data Structures` `DSA` | 1,000 essential LeetCode interview questions curated across 16 core patterns, tailored with 30-sec conversational pitches, visual traces, edge cases, and optimal implementations. |
-| **[Railway-App](https://github.com/Aniketchavan7/Railway-App)** | `FastAPI` `Next.js 15` `LangGraph` `Neon Postgres` `Upstash Redis` `MapLibre` `WebSockets` | AI-powered real-time Indian Railway tracking SaaS with live telemetry, sub-second WebSocket updates, geospatial map rendering, and a grounded LangGraph travel assistant. |
-| **[No-Spoti](https://github.com/Aniketchavan7/No-Spoti)** | `React Native` `Expo SDK` `Kotlin` `TypeScript` `SQLite` `Audius` | Zero-ads, subscription-free music streaming platform and native Android APK featuring decentralized audio streaming, offline playback, and local caching. |
-| **[Neurosymbolic Policy QA](https://github.com/Aniketchavan7/neurosymbolic-policy-qa)** | `Python` `LangGraph` `Z3 Theorem Prover` `BM25s` `SentenceTransformers` | Neurosymbolic QA over regulatory policy text: compiles retrieved clauses into typed formal rules verified by Z3 SMT solver with hybrid RAG (BM25 + dense embeddings + reranking). |
-| **[Claim Decision Engine](https://github.com/Aniketchavan7/claim-decision-engine)** | `FastAPI` `LangGraph` `ChromaDB` `Streamlit` `Docker` | Multi-agent health insurance claim adjudication engine featuring 4 specialized LLM agents with verifiable clause-grounded decision audits. |
-| **[Spring Money Multi-Agent System](https://github.com/Aniketchavan7/Spring_money-AI-agentic-chatbot)** | `LangGraph` `LangChain` `ChromaDB` `FastAPI` `Python` | Autonomous multi-agent financial content research, drafting, and verification engine handling end-to-end publishing pipelines in production. |
-| **[Winter-Arc](https://github.com/Aniketchavan7/Winter-arc)** | `Next.js 16` `React 19` `Supabase` `PostgreSQL` `Tailwind CSS` | High-performance habit and routine execution engine featuring synchronized LeetCode daily heatmaps, streak calculation, and audit trails. |
-| **[Generic Data Structures Library](https://github.com/Aniketchavan7)** | `C++` `OOP` `Templates` `Data Structures` | Reusable, type-generic template library implementing modular linked lists, stacks, and queues with clean encapsulation and memory safety. |
-
----
-
-### 📊 GitHub Activity & Analytics
+## `$ ls ~/stack`
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Aniketchavan7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&show=reviews,prs_merged_percentage" height="175" alt="Aniket's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=Aniketchavan7&theme=tokyonight&hide_border=true&background=0B0F19" height="175" alt="Aniket's GitHub Streak" />
-      </td>
-    </tr>
-  </table>
 
+**🧠 ai / ml**<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" alt="Python, PyTorch" />&nbsp;
+<img src="https://img.shields.io/badge/LangGraph-1a1b26?style=for-the-badge&logo=langchain&logoColor=white" height="48" alt="LangGraph" />
+<img src="https://img.shields.io/badge/HuggingFace-1a1b26?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="48" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/ChromaDB-1a1b26?style=for-the-badge&logo=chroma&logoColor=white" height="48" alt="ChromaDB" />
+
+**⚡ backend & languages**<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,spring,flask,nodejs,java,cpp,ts,js,bash&theme=dark" alt="Backend and languages" />
+
+**🎨 frontend & mobile**<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,kotlin&theme=dark" alt="Frontend and mobile" />
+
+**🗄️ data, cloud & tooling**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,supabase,docker,cloudflare,vercel,githubactions,git,linux&theme=dark" alt="Data, cloud and tooling" />
+
+</div>
+
+<br/>
+
+## `$ git log --projects`
+
+| | project | what it does | built with |
+| :-: | :--- | :--- | :--- |
+| 🚆 | **[Railway-App](https://github.com/Aniketchavan7/Railway-App)** | Real-time Indian Railway tracking with live telemetry, sub-second WebSocket updates, maps, and a grounded LangGraph travel assistant | `FastAPI` `Next.js` `LangGraph` `Redis` `MapLibre` |
+| ⚖️ | **[Neurosymbolic Policy QA](https://github.com/Aniketchavan7/neurosymbolic-policy-qa)** | Compiles retrieved policy clauses into typed rules and verifies answers with the Z3 SMT solver | `LangGraph` `Z3` `BM25s` `SentenceTransformers` |
+| 🏥 | **[Claim Decision Engine](https://github.com/Aniketchavan7/claim-decision-engine)** | Four specialised LLM agents adjudicate health-insurance claims with clause-grounded audit trails | `FastAPI` `LangGraph` `ChromaDB` `Docker` |
+| 💸 | **[Spring Money Multi-Agent](https://github.com/Aniketchavan7/Spring_money-AI-agentic-chatbot)** | Autonomous research → draft → verify pipeline for financial content | `LangGraph` `LangChain` `ChromaDB` |
+| 🎧 | **[No-Spoti](https://github.com/Aniketchavan7/No-Spoti)** | Ad-free music streaming Android app with offline playback and local caching | `React Native` `Expo` `Kotlin` `SQLite` |
+| ❄️ | **[Winter-Arc](https://github.com/Aniketchavan7/Winter-arc)** | Habit and routine engine with synced LeetCode heatmaps and streaks | `Next.js` `Supabase` `Tailwind` |
+| 🧩 | **[leetcode](https://github.com/Aniketchavan7/leetcode)** | 1,000 solutions across 16 core patterns, with intuition, traces, and edge cases | `Java` `Python` |
+
+<br/>
+
+## `$ git log --author=aniket --merged upstream`
+
+| repo | merged contribution |
+| :--- | :--- |
+| **[ogx-ai/ogx](https://github.com/ogx-ai/ogx)** | [#7044](https://github.com/ogx-ai/ogx/pull/7044) · map `content_filter` finish reason to `refusal` stop reason in the Anthropic translation layer |
+| **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** | [#1515](https://github.com/NandhaKishorM/laya/pull/1515) · fix uvicorn log-level case sensitivity in the serve test suite · shipped in `v0.5.1` |
+
+<br/>
+
+## `$ cat ~/.achievements`
+
+<div align="center">
+  <a href="https://github.com/Aniketchavan7?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="80" alt="Pull Shark" title="Pull Shark" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Aniketchavan7?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="80" alt="YOLO" title="YOLO" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Aniketchavan7?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="80" alt="Quickdraw" title="Quickdraw" /></a>
+</div>
+
+<br/>
+
+## `$ top`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniketchavan7&show_icons=true&hide_border=true&bg_color=1a1b26&title_color=bb9af7&text_color=c0caf5&icon_color=7aa2f7&ring_color=7dcfff&show=reviews,prs_merged_percentage" height="170" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=Aniketchavan7&hide_border=true&background=1a1b26&ring=bb9af7&fire=ff9e64&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=7aa2f7&sideLabels=7aa2f7&dates=565f89" height="170" alt="GitHub streak" />
   <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketchavan7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&text_color=94A3B8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketchavan7&layout=compact&hide_border=true&bg_color=1a1b26&title_color=bb9af7&text_color=c0caf5" height="150" alt="Top languages" />
 </div>
 
----
+<br/>
 
 <div align="center">
-  <a href="https://github.com/Aniketchavan7">
-    <img src="https://komarev.com/ghpvc/?username=Aniketchavan7&style=flat-square&color=0B0F19&labelColor=161B22" alt="Profile Views" />
-  </a>
+  <sub><code>➜ ~ exit</code> &nbsp;·&nbsp; thanks for stopping by</sub><br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Aniketchavan7&style=flat-square&color=7aa2f7&labelColor=1a1b26&label=visitors" alt="Profile views" />
 </div>
