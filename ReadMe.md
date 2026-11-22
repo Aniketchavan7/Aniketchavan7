@@ -90,8 +90,6 @@
 ## `$ top`
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
-  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Aniketchavan7&show_icons=true&hide_border=true&bg_color=1a1b26&title_color=bb9af7&text_color=c0caf5&icon_color=7aa2f7&ring_color=7dcfff&show=reviews,prs_merged_percentage" height="170" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=Aniketchavan7&hide_border=true&background=1a1b26&ring=bb9af7&fire=ff9e64&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=7aa2f7&sideLabels=7aa2f7&dates=565f89" height="170" alt="GitHub streak" />
   <br/>
