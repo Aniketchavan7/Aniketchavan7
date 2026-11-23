@@ -17,11 +17,23 @@ jobs:
   koi:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v7
-      - uses: yalongwastaken/git-koi@v1
+      - uses: actions/checkout@v4
+      - name: Cache git-koi binary
+        id: cache-git-koi
+        uses: actions/cache@v4
         with:
-          body: white
-          output-dir: koi
+          path: ~/.cargo/bin/git-koi
+          key: ${{ runner.os }}-git-koi-wide-v1
+      - name: Install latest git-koi with wide pond support
+        if: steps.cache-git-koi.outputs.cache-hit != 'true'
+        run: cargo install --git https://github.com/yalongwastaken/git-koi.git
+      - name: Collect and render wide koi pond
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          export PATH="$HOME/.cargo/bin:$PATH"
+          git-koi collect Aniketchavan7 --output /tmp/snapshot.json
+          git-koi render /tmp/snapshot.json --output-dir koi --body white --size 768x256 --scale 1
       - name: Commit the koi if it changed
         shell: bash
         run: |

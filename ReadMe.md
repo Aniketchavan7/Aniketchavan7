@@ -39,7 +39,7 @@ class Aniket:
 ```
 
 <div align="center">
-  <img src="koi/koi.gif" width="230" alt="Aniket's activity koi pond" /><br/>
+  <img src="koi/koi.gif" width="100%" alt="Aniket's activity koi pond" /><br/>
   <sub><code>// a living koi pond that grows with my daily commits</code></sub>
 </div>
 
