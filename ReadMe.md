@@ -8,6 +8,7 @@
 
 <br/>
 
+<a href="https://github.com/Aniketchavan7"><img src="https://img.shields.io/github/followers/Aniketchavan7?label=Follow&style=for-the-badge&color=7aa2f7&labelColor=1a1b26&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
 <a href="https://aniketchavan7.github.io/portfolio"><img src="https://img.shields.io/badge/portfolio-1a1b26?style=for-the-badge&logo=googlechrome&logoColor=7dcfff" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/aniket-chavan"><img src="https://img.shields.io/badge/linkedin-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" /></a>
 <a href="https://codolio.com/profile/Aniket_chavan7"><img src="https://img.shields.io/badge/codolio-1a1b26?style=for-the-badge&logo=leetcode&logoColor=ff9e64" alt="Codolio" /></a>
@@ -69,15 +70,16 @@ class Aniket:
 
 ## `$ git log --projects`
 
-| | project | what it does | built with |
-| :-: | :--- | :--- | :--- |
-| 🚆 | **[Railway-App](https://github.com/Aniketchavan7/Railway-App)** | Real-time Indian Railway tracking with live telemetry, sub-second WebSocket updates, maps, and a grounded LangGraph travel assistant | `FastAPI` `Next.js` `LangGraph` `Redis` `MapLibre` |
-| ⚖️ | **[Neurosymbolic Policy QA](https://github.com/Aniketchavan7/neurosymbolic-policy-qa)** | Compiles retrieved policy clauses into typed rules and verifies answers with the Z3 SMT solver | `LangGraph` `Z3` `BM25s` `SentenceTransformers` |
-| 🏥 | **[Claim Decision Engine](https://github.com/Aniketchavan7/claim-decision-engine)** | Four specialised LLM agents adjudicate health-insurance claims with clause-grounded audit trails | `FastAPI` `LangGraph` `ChromaDB` `Docker` |
-| 💸 | **[Spring Money Multi-Agent](https://github.com/Aniketchavan7/Spring_money-AI-agentic-chatbot)** | Autonomous research → draft → verify pipeline for financial content | `LangGraph` `LangChain` `ChromaDB` |
-| 🎧 | **[No-Spoti](https://github.com/Aniketchavan7/No-Spoti)** | Ad-free music streaming Android app with offline playback and local caching | `React Native` `Expo` `Kotlin` `SQLite` |
-| ❄️ | **[Winter-Arc](https://github.com/Aniketchavan7/Winter-arc)** | Habit and routine engine with synced LeetCode heatmaps and streaks | `Next.js` `Supabase` `Tailwind` |
-| 🧩 | **[leetcode](https://github.com/Aniketchavan7/leetcode)** | 1,000 solutions across 16 core patterns, with intuition, traces, and edge cases | `Java` `Python` |
+| | project | what it does | stars | built with |
+| :-: | :--- | :--- | :-: | :--- |
+| 🚆 | **[Railway-App](https://github.com/Aniketchavan7/Railway-App)** | Real-time Indian Railway tracking with live telemetry, sub-second WebSocket updates, maps, and a grounded LangGraph travel assistant | [![Stars](https://img.shields.io/github/stars/Aniketchavan7/Railway-App?style=flat-square&color=7aa2f7&labelColor=1a1b26)](https://github.com/Aniketchavan7/Railway-App) | `FastAPI` `Next.js` `LangGraph` `Redis` `MapLibre` |
+| 🧠 | **[system-design-illustrated](https://github.com/Aniketchavan7/system-design-illustrated)** | Illustrated visual reference for distributed systems and system design with intuitive analogies and code | [![Stars](https://img.shields.io/github/stars/Aniketchavan7/system-design-illustrated?style=flat-square&color=7aa2f7&labelColor=1a1b26)](https://github.com/Aniketchavan7/system-design-illustrated) | `Distributed Systems` `Architecture` `Python` |
+| 🧩 | **[leetcode](https://github.com/Aniketchavan7/leetcode)** | 1,000 solutions across 16 core patterns, with intuition, traces, and edge cases | [![Stars](https://img.shields.io/github/stars/Aniketchavan7/leetcode?style=flat-square&color=7aa2f7&labelColor=1a1b26)](https://github.com/Aniketchavan7/leetcode) | `Java` `Python` `Algorithms` |
+| 💳 | **[YouPI-PG](https://github.com/Aniketchavan7/YouPI-PG)** | Self-hosted UPI & COD payment gateway with zero per-transaction platform fees, dynamic QR, and WhatsApp OTP verification | [![Stars](https://img.shields.io/github/stars/Aniketchavan7/YouPI-PG?style=flat-square&color=7aa2f7&labelColor=1a1b26)](https://github.com/Aniketchavan7/YouPI-PG) | `Node.js` `FastAPI` `Docker` `FinTech` |
+| 🏥 | **[claim-decision-engine](https://github.com/Aniketchavan7/claim-decision-engine)** | Four specialised LLM agents adjudicate health-insurance claims with clause-grounded audit trails | [![Stars](https://img.shields.io/github/stars/Aniketchavan7/claim-decision-engine?style=flat-square&color=7aa2f7&labelColor=1a1b26)](https://github.com/Aniketchavan7/claim-decision-engine) | `FastAPI` `LangGraph` `ChromaDB` `Docker` |
+| 💸 | **[Spring Money Multi-Agent](https://github.com/Aniketchavan7/Spring_money-AI-agentic-chatbot)** | Autonomous research → draft → verify pipeline for financial content and investment analysis | [![Stars](https://img.shields.io/github/stars/Aniketchavan7/Spring_money-AI-agentic-chatbot?style=flat-square&color=7aa2f7&labelColor=1a1b26)](https://github.com/Aniketchavan7/Spring_money-AI-agentic-chatbot) | `LangGraph` `LangChain` `ChromaDB` |
+| 🎧 | **[No-Spoti](https://github.com/Aniketchavan7/no-spoti-releases)** | Ad-free music streaming Android app with offline playback and local caching *(public APKs)* | [![Stars](https://img.shields.io/github/stars/Aniketchavan7/no-spoti-releases?style=flat-square&color=7aa2f7&labelColor=1a1b26)](https://github.com/Aniketchavan7/no-spoti-releases) | `React Native` `Expo` `Kotlin` `SQLite` |
+| ⚖️ | **[Neurosymbolic Policy QA](https://github.com/Aniketchavan7/neurosymbolic-policy-qa)** | Compiles retrieved policy clauses into typed rules and verifies answers with Z3 SMT solver *(private core)* | [![Stars](https://img.shields.io/github/stars/Aniketchavan7/neurosymbolic-policy-qa?style=flat-square&color=7aa2f7&labelColor=1a1b26)](https://github.com/Aniketchavan7/neurosymbolic-policy-qa) | `LangGraph` `Z3` `BM25s` `SentenceTransformers` |
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -107,7 +109,7 @@ class Aniket:
 ## `$ top`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniketchavan7&show_icons=true&hide_border=true&bg_color=1a1b26&title_color=bb9af7&text_color=c0caf5&icon_color=7aa2f7&ring_color=7dcfff&show=reviews,prs_merged_percentage" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniketchavan7&show_icons=true&hide_border=true&bg_color=1a1b26&title_color=bb9af7&text_color=c0caf5&icon_color=7aa2f7&ring_color=7dcfff&show=reviews,prs_merged,prs_merged_percentage" height="170" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=Aniketchavan7&hide_border=true&background=1a1b26&ring=bb9af7&fire=ff9e64&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=7aa2f7&sideLabels=7aa2f7&dates=565f89" height="170" alt="GitHub streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketchavan7&layout=compact&hide_border=true&bg_color=1a1b26&title_color=bb9af7&text_color=c0caf5" height="150" alt="Top languages" />
