@@ -85,6 +85,8 @@ class Aniket:
 
 | repo | merged contribution |
 | :--- | :--- |
+| **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** | [#2026](https://github.com/tashfeenahmed/freellmapi/pull/2026) · increase model catalog size limit & add `CUSTOM_MODEL_CATALOG_MAX_MB` support |
+| **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** | [#2025](https://github.com/tashfeenahmed/freellmapi/pull/2025) · exempt custom relays from request-wide platform skip in fallback chain |
 | **[ogx-ai/ogx](https://github.com/ogx-ai/ogx)** | [#7044](https://github.com/ogx-ai/ogx/pull/7044) · map `content_filter` finish reason to `refusal` stop reason in the Anthropic translation layer |
 | **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** | [#1515](https://github.com/NandhaKishorM/laya/pull/1515) · fix uvicorn log-level case sensitivity in the serve test suite · shipped in `v0.5.1` |
 
